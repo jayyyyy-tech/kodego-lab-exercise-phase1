@@ -1,0 +1,89 @@
+body {
+  background: url(./vecteezy_abstract-background-texture-hand-painted-watercolor_6235960.JPG);
+  background-size: contain;
+  justify-content: center;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+.name {
+  display: flex;
+  justify-content: center;
+  color: green;
+}
+.me {
+  display: flex;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: auto;
+  border-radius: 10px;
+}
+.hi {
+  background-color: rgb(177, 177, 94);
+  border-radius: 10px;
+  padding: 10px;
+  text-align: justify;
+}
+.list {
+  background-color: antiquewhite;
+  border-radius: 10px;
+  padding: auto;
+  position: relative;
+  text-align: 10%;
+}
+.hobbies {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 50px;
+  display: flex;
+  border-bottom: 3px solid #00a950;
+  width: 10rem;
+  margin-bottom: 10px;
+}
+.interest ins img {
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  position: relative;
+}
+
+.bn31 {
+  background-image: linear-gradient(to right, #006175 0%, #00a950 100%);
+  border-radius: 30px;
+  box-sizing: border-box;
+  color: #00a84f;
+  display: block;
+  height: 30px;
+  font-size: 1em;
+  padding: 3px;
+  position: relative;
+  text-decoration: none;
+  width: 4em;
+  z-index: 2;
+}
+
+.bn31:hover {
+  color: #fff;
+}
+
+.bn31 .bn31span {
+  align-items: center;
+  background: #0e0e10;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  transition: background 0.5s ease;
+  width: 100%;
+}
+
+.bn31:hover .bn31span {
+  background: transparent;
+}
